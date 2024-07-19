@@ -2,7 +2,7 @@
 task_name: 'on Koii'
 author: 'Koii'
 description: 'Content Monetization on Koii'
-repositoryUrl: 'https://github.com/koii-network/task-template' #replace with your own repo url
+repositoryUrl: 'https://github.com/janijesse/onkoii' #replace with your own repo url
 imageUrl: 'imageUrl'
 
 # task_executable_network : DEVELOPMENT, ARWEAVE or IPFS
@@ -41,6 +41,8 @@ requirementsTags:
     value: '5 GB'
   - type: STORAGE
     value: '5 GB'
+
+  
 
 # OPTIONAL variables variables for creating task / REQUIRED variables for update task
 
