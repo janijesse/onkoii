@@ -20,3 +20,5 @@ A user wants to publish original content (e.g., an article, image, or video) on 
 ## Conclusion
 This use case describes the process by which a user can publish original content on the Koii network and receive rewards in the form of KOII tokens for the interactions of other users with that content.
 
+
+// The use case allows users to publish content on Koii and receive rewards in KOII tokens. Currently, the content is hosted on Notion, and an API is used to verify its existence in order to obtain rewards.//
